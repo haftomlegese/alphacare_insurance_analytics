@@ -1,7 +1,7 @@
 *.pyc            
 __pycache__/   
 myenv/          
-data/
+storage/
 
 .vscode/      
 
@@ -12,3 +12,4 @@ bin/
 pip-selfcheck.json
 
 .DS_Store     
+/data
